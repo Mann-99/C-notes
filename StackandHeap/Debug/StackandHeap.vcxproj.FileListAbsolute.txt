@@ -1,0 +1,2 @@
+C:\Users\Majied\source\repos\StackandHeap\Debug\StackandHeap.exe
+C:\Users\Majied\source\repos\StackandHeap\Debug\StackandHeap.pdb
